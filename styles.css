@@ -83,18 +83,18 @@ img {
     margin-bottom: 10px;
 }
 
-.in {
+.in, .love, .lo, .honey, .ho, .eat {
     display: flex;
     margin-bottom: 20px;
     margin-left: 5px;
 }
 
-.in-two {
+.in-two, .love-one, .lo-two, .honey-one, .ho-two, .eat-one {
     margin-left: 30px;
     margin-right: 5px;
     margin-bottom: 10px;
 }
-.love {
+/*.love {
     display: flex;
     margin-bottom: 20px;
     margin-left: 5px;
@@ -152,7 +152,7 @@ img {
     margin-left: 30px;
     margin-right: 5px;
     margin-bottom: 10px;
-}
+}*/
 .go {
     margin-bottom: 10px;
 }
