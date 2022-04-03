@@ -1,0 +1,215 @@
+body {
+    background-color: #ffebf3f5;
+    color: #2f2f30;
+
+    font-size: 16px;
+    font-weight: 500;
+    /*font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;*/
+    
+    font: normal 16px Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+a {
+    color: #2f2f30;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #2f2f30;
+}
+
+.avatar {
+    width: 200px;
+    border-radius: 28px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.25);
+}
+
+img {
+    width: 175px;
+    border-radius: 50%;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.25);
+}
+
+.info {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+@media (max-width: 800px) {
+    .info {
+        text-align: center;
+        display: block;
+    }
+}
+
+.info-text {
+    margin-left: 40px;
+    margin-bottom: 10px;
+}
+
+
+.info p {
+    color: #2f2f30;
+    margin: 0;
+    font-style: italic;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 30px;
+}
+
+.card {
+    padding: 25px 30px;
+    margin-bottom: 20px;
+
+}
+
+.inside {
+    display: flex;
+    margin-bottom: 20px;
+    margin-left: 5px;
+    margin-top: 10px;
+}
+
+.inside-one {
+    margin-left: 30px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+}
+
+.in {
+    display: flex;
+    margin-bottom: 20px;
+    margin-left: 5px;
+}
+
+.in-two {
+    margin-left: 30px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+}
+.love {
+    display: flex;
+    margin-bottom: 20px;
+    margin-left: 5px;
+}
+
+.love-one {
+    margin-left: 30px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+}
+
+.lo {
+    display: flex;
+    margin-bottom: 20px;
+    margin-left: 5px;
+}
+
+.lo-two {
+    margin-left: 30px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+}
+
+.honey {
+    display: flex;
+    margin-bottom: 20px;
+    margin-left: 5px;
+}
+
+.honey-one {
+    margin-left: 30px;
+    margin-right: 5px;
+   margin-bottom: 10px;
+}
+
+.ho {
+    display: flex;
+    margin-bottom: 20px;
+    margin-left: 5px;
+}
+
+.ho-two {
+    margin-left: 30px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+}
+
+.eat {
+    display: flex;
+    margin-bottom: 20px;
+    margin-left: 5px;
+}
+
+.eat-one {
+    margin-left: 30px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+}
+.go {
+    margin-bottom: 10px;
+}
+
+.table {
+    width: 100%;
+}
+
+.table td {
+    padding-bottom: 10px;
+}
+
+.contact h2 {
+    text-align: center;
+}
+
+.form-group label {
+    display: block;
+    font-size: 14px;
+}
+
+.form-group input, .form-group textarea {
+    width: 100%;
+    box-sizing: border-box;
+    border: none;
+    background: transparent;
+    border-bottom: 1px solid #ccc;
+    color: #2f2f30;
+    padding: 15px 0 10px;
+    outline: none;
+    font-family: inherit;
+}
+
+.row {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.row > .form-group {
+    width: 50%;
+    margin-right: 20px;
+}
+
+.row > .form-group:last-child {
+    margin-right: 0px;
+}
+
+.btn {
+    background:#2f2f30;
+    padding: 15px 20px;
+    color: antiquewhite;
+    border: none;
+    font-family: inherit;
+    cursor: pointer;
+}
+
+.btn:hover {
+    opacity: 0.9;
+}
+
