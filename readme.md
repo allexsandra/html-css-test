@@ -1,3 +1,3 @@
 # HTML and CSS test
 
-First try to do simpe website
+First try to do simple website
